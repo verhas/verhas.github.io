@@ -1,0 +1,10 @@
+= Verhas Peter Blog Source Code
+
+This is the repository that stores the source code for the blog link:https://verhas.github.io[Verhás Péter BLOG].
+The blog is structured using Jekyll site builder.
+The articles are written in Asciidoc, and they use Jamal as a macro language.
+The blog is built locally on the development machine and gets deployed suing GIT.
+
+The blog is personal, non-technical, Hungarian.
+
+For the technical blog visit javax0.github.io

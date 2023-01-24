@@ -1,0 +1,8 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+{%@import blog.jim%}
+== Verhás Péter személyes blogja
+

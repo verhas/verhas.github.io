@@ -1,0 +1,77 @@
+---
+title: A büntetésről (gondolatok)
+layout: posta
+comments: on
+---
+
+
+
+
+== 1. Bevezető
+
+Amikor valaki valamilyen jogsértést követ el, akkor elítélik és van valamilyen büntetés.
+A büntetés a modern társadalomban lehet pénzbírság, vagy a szabadság valamilyen korlátozása (börtön).
+A legtöbb embernek ez természetes.
+Ez mindig is így volt, amíóta csak világ a világ, amióta társadalom létezik.
+
+De valójában miért is tesszük ezt mi emberek?
+
+Ebben a cikkben semm újat nem fogok leírni, amit eddig valahol már le ne írtak volna.
+Egyszerűen csak nem találtam meg sehol magyarul, röviden és érthetően.
+
+Amiről beszélni fogok az az, hogy miért is kell ezt a kérdést egyáltalán feltenni?
+Fel szabad-e tenni ilyen kérdéseket?
+Utána végig fogok menni a büntetés céljain, ahogy ezek több írásban is megjelennek.
+
+== 2. Mi a kérdés?
+
+A kérdés az, hogy miért van büntetés?
+Nem az oka érdekel ebben az írásban, sokkal inkábba célja.
+Ha az oka érdekel, akkor a biológiát, az evolúciót és a történelmet kell vizsgálni, hogyan alakult ki, miért lett a büntetés.
+
+A kérdés, hogy mit akarunk elérni a büntetéssel?
+
+Mielőtt azonban a kérdést magát feltesszük, meg kell értenünk, hogy miért tesszük fel a kérdést?
+Ez önnmagába harapó kígyónak látszik első pillantásra, de valójában nem az.
+Amikor felteszünk egy kérdést, akkor tudnunk kell, hogy milyen választ akarunk kapni.
+Nem abból a szempontból, hogy igazat, vagy inkább nekünk tetszőt, még ha nem is igaz.
+Az igazságból többnyire nem érdemes engedni.
+De az igazságnak is lehet több vetülete, több részlete Amikor elemzünk egy kérdést akkor tudnunk kell, hogy a kérdésre adott válasz szempontjából az éppen elemzett vetület fontos-e.
+Az pedig, hogy mi a fontos, attól függ, hogy mire akarjuk használni a választ.
+
+Ha értjük és tudjuk, hogy mi a célja a büntetésnek, akkor könnyebben észrevesszük ha nem jó a büntetés.
+Akinek az a dolga társadalmi szinten, hogy meghatározza a büntetést, -- akár úgy, hogy a büntetést maga szabja ki, mint bíró, vagy a büntetés kiszabásának kereteit határozza meg, mint törvényhozó -- az könnyebben tudja megváltoztatni a kiszabott büntetést, vagy a törvényeket, ha pontosan érti a mögöttes célokat.
+
+A hétköznapi ember számára pedig könnyebb megérteni az egyes büntetési tételek mértékét, az elbírálás menetét, még ha nem szakmája is a büntetés kiszabásának és végrehajtásának semmelyik szegmense, vagy akár ha érintett egy konkrét esetben.
+Extrém példaként az is megérthető, hogy miért nincs halál büntetés, vagy miért abszurd és teljesen hibás egy olyan érvelés, amikor valaki azt veti fel, hogy "ha az ő gyereke lenne az áldozat".
+Ezekre az összefoglalőban még visszatérünk.
+
+== 3. A büntetés céljai
+
+.BTK 79§
+____
+A büntetés célja a társadalom védelme érdekében annak megelőzése, hogy akár az elkövető, akár más bűncselekményt kövessen el.
+____
+
+Ez a meghatározás a Magyar Büntetőtörvénykönyvből való, és teljesen helyénvaló, bár nagyon általános.
+A jogi alkalmazáshoz megfelelő, és az előző mondatban említett általánossága nem hiány.
+Ez a definíció azonban nem elegendő a részletesebb megértéhez, nem is ez a célja.
+
+A büntetést és a célját le lehet vezetni az etikából is, ahogy azt Bibó István teszi a link:https://mek.oszk.hu/02000/02043/html/42.html["A BÜNTETÉS FUNKCIÓJA"] írásában.
+Ez egy bonyolult írás.
+
+Talán az ami leginkább használható az angol nyelvű link:https://www.unodc.org/e4j/en/crime-prevention-criminal-justice/module-7/key-issues/2--justifying-punishment-in-the-community.html[ENSZ dokumentum], a "Büntetés igazolása a társadalomban".
+
+A dokumentum a következő öt célt sorolja fel:
+
+- Bosszú (retribution)
+- Megelőzés (incapacitation)
+- Elrettentés (deterrence)
+- Rehabilitáció (rehabilitation)
+- Kárenyhítés (reparation)
+
+=== 3.1. Bosszú
+=== 3.2. Megelőzés
+=== 3.3. Elrettentés
+=== 3.4. Rehabilitáció
+=== 3.5. Kárcsökkentés

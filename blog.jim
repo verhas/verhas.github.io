@@ -1,0 +1,43 @@
+{@comment}
+define the 'section', 'subsection' and 'subsubsection' macros that number the individual sections
+
+{@counter:define id=:scount}
+{@counter:define id=:sscount}
+{@counter:define id=:ssscount}
+{@define section($x)=== {scount}. $x{@counter:define id=:sscount}}
+{@define subsection($x)==== {scount last}.{sscount}. $x{@counter:define id=:ssscount}}
+{@define subsubsection($x)===== {scount last}.{sscount last}.{ssscount}. $x}
+
+{#define :ARTICLE={#file (format="$bareNaked"){@pos (top format="%f")}}}
+
+{@define article($fileName,$refText)=link:/{@replace (regex) |$fileName|(\d)-|$1/|}.html[$refText]}
+{@define liquid($x)={@escape* `liquid`{`liquid`} $x {@escape* `liquid`}`liquid`}}
+{@define raw($x)={liquid raw}$x{liquid endraw}}
+
+{@define png($x,...$Y)=image::https://verhas.github.io/assets/images/$x.png[$Y]}
+
+{@define java($X)=[source,java]
+----
+{@snip (actions=number,trim format="%2d. ") $X}
+----}
+
+{@define commentDisclaimer=
+[%collapsible,title="Hogyan szóljak hozzá?", sidebar]
+====
+****
+Ha bármelyik cikkben hibát talál örömmel veszem ha kijavít.
+Minden cikk eredeti szövege megtalálható github-on:
+
+link:https://github.com/verhas/verhas.github.io/blob/master/_posts/{ARTICLE}.adoc.jam[`https://github.com/verhas/verhas.github.io/blob/master/_posts/{ARTICLE}.adoc.jam`]
+
+Hozzon létre egy hibajegyet link:https://github.com/verhas/verhas.github.io/issues/new[ticket], create a  link:https://github.com/verhas/verhas.github.io/fork[fork], suggest modification via pull requests.
+Note that this repository also contains the demonstration sample source code.
+
+For other aspects of commenting read the link:https://verhas.github.io/about/[ABOUT] page of this blog.
+****
+====}
+
+{@define sampleOutput($X)=[source,text]
+----
+{#include [verbatim] ../_projects/{ARTICLE}/$X}
+----}

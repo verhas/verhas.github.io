@@ -1,0 +1,10 @@
+---
+layout: home
+title: Verhás Péter Blogja
+---
+
+Írások, vegyesen
+
+(C) CC-BY 2013 Peter Verhas
+
+image:PeterVerhas.png[width=100]
